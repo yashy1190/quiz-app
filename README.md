@@ -1,1 +1,2 @@
-# quiz-app
+# quiz_app
+React
